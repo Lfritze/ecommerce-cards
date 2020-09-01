@@ -1,0 +1,19 @@
+{
+  "name": "ecommerce-cards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lfritze/ecommerce-cards.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lfritze/ecommerce-cards/issues"
+  },
+  "homepage": "https://github.com/Lfritze/ecommerce-cards#readme"
+}
